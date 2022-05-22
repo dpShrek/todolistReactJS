@@ -1,0 +1,8 @@
+.search-panel {
+    display: flex;
+    justify-content: space-between;
+}
+
+.app-search-panel {
+    padding-bottom: 30px;
+}

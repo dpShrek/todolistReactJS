@@ -1,0 +1,14 @@
+.lineThrough {
+    text-decoration: line-through;
+}
+
+.list-group-item__span {
+    cursor: pointer;
+    color: black;
+    
+}
+
+.list-group-item__span.important{
+    color:steelblue;
+    font-weight: bold;
+}

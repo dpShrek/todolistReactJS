@@ -1,0 +1,11 @@
+.searchpanel {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.form-floating>.form-control, .form-floating>.form-select {
+    height: calc(1.5rem + 2px);
+    line-height: 1.25;
+}
