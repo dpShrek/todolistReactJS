@@ -1,0 +1,28 @@
+.todo-list-ul {
+    list-style-type: none;
+    padding: 0;
+    border: solid 1px #a2a2a2;
+    border-radius: 5px;
+}
+
+.todo-list-li {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items:center;
+    border-bottom: solid 1px #a2a2a2;
+}
+
+.todo-list-li:last-child {
+    border:none;
+}
+
+.important {
+    font-weight: 500;
+    color: #2196f3;
+    font-size: 18px;
+}
+
+.done {
+    text-decoration: line-through;
+}
